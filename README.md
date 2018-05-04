@@ -50,17 +50,14 @@ function fancyAlert(arg) {
 }
 ```
 
-## Chapitre 5 
+## Chapitre 5
 
 ...
 
 
-**Si seulement on pouvait faire quelque chose de concret.**
-
-Mais mieux vaut ecrire n'importe quoi.
-
 
 ## Chapitre 6
+<<<<<<< HEAD
 
 > Le calcul du temps est toujours le premier de tous les calculs, parce que la perte du temps est la seule perte qu'il n'est jamais au pouvoir des hommes de réparer.
 *Paul Thiébault ; Recueil de pensées (1805)*
@@ -70,3 +67,16 @@ Mais mieux vaut ecrire n'importe quoi.
 
 
 
+=======
+>>>>>>> 6bf3ac9b40c885bbdbf5c2cfe41170a363043d9e
+
+## Chapitre 7
+
+Le Dictionnaire abrégé du surréalisme donne du cadavre exquis la définition suivante : « jeu qui consiste à faire composer une phrase, ou un dessin, par plusieurs personnes sans qu'aucune d'elles ne puisse tenir compte de la collaboration ou des collaborations précédentes. »  
+Ce jeu littéraire a été inventé à Paris, au 54 rue du Château, dans une maison où vivaient Marcel Duhamel, Jacques Prévert et Yves Tanguy1. Le principe du jeu est le suivant : chaque participant écrit à tour de rôle une partie d'une phrase, dans l'ordre sujet–verbe–complément, sans savoir ce que le précédent a écrit. La première phrase qui résulta et qui donna le nom à ce jeu fut « Le cadavre – exquis – boira – le vin – nouveau ».   Il fait partie des créations inspirées par le concept d'inconscient, souhaitant explorer ses ressources2.
+
+
+**Si seulement on pouvait faire quelque chose de concret.**
+
+Mais mieux vaut ecrire n'importe quoi.
+>>>>>>> 8e328b7b958b39b4aecb16893a0e5e82b51442cf
