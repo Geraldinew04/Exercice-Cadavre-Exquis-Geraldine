@@ -53,3 +53,10 @@ function fancyAlert(arg) {
 ## Chapitre 5 
 
 ...
+
+
+**Si seulement on pouvait faire quelque chose de concret.**
+
+Mais mieux vaut ecrire n'importe quoi.
+
+## Chapitre 6
