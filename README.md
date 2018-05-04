@@ -1,6 +1,6 @@
-#Titre de mon exercice, *mon histoire*
+# Titre de mon exercice, *mon histoire*
 
-##Chapitre 1
+## Chapitre 1
 
 > Seul on avance plus vite, ensemble on va plus loin
 
