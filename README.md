@@ -34,3 +34,7 @@ Les problèmes de git:
 
 * travaillez sous terminal
 * Prise de têtes
+
+## Chapitre 4  
+Le Dictionnaire abrégé du surréalisme donne du cadavre exquis la définition suivante : « jeu qui consiste à faire composer une phrase, ou un dessin, par plusieurs personnes sans qu'aucune d'elles ne puisse tenir compte de la collaboration ou des collaborations précédentes. »  
+Ce jeu littéraire a été inventé à Paris, au 54 rue du Château, dans une maison où vivaient Marcel Duhamel, Jacques Prévert et Yves Tanguy1. Le principe du jeu est le suivant : chaque participant écrit à tour de rôle une partie d'une phrase, dans l'ordre sujet–verbe–complément, sans savoir ce que le précédent a écrit. La première phrase qui résulta et qui donna le nom à ce jeu fut « Le cadavre – exquis – boira – le vin – nouveau ».   Il fait partie des créations inspirées par le concept d'inconscient, souhaitant explorer ses ressources2.
