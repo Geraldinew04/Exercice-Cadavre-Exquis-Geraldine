@@ -20,3 +20,11 @@ Qualités d'un web dev
 * CSS
 * HTML
 * JavaScript
+
+<pre>
+	<code>
+		Il fût une fois, un jolie chat passa par ici,
+		Malheureusement un oiseau l'attendais...
+		L'oiseau tua alors le chien qui étais là !
+	</code>
+</pre>
