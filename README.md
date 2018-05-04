@@ -59,4 +59,14 @@ function fancyAlert(arg) {
 
 Mais mieux vaut ecrire n'importe quoi.
 
+
 ## Chapitre 6
+
+> Le calcul du temps est toujours le premier de tous les calculs, parce que la perte du temps est la seule perte qu'il n'est jamais au pouvoir des hommes de réparer.
+*Paul Thiébault ; Recueil de pensées (1805)*
+![Oui oui](https://media.giphy.com/media/y4E6VumnBbIfm/giphy.gif)
+
+
+
+
+
