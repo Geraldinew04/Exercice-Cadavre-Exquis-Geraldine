@@ -34,3 +34,18 @@ Les problèmes de git:
 
 * travaillez sous terminal
 * Prise de têtes
+
+
+## Chapitre 4
+
+J'ai oublier les chapitres précédants ...
+
+Du coup je vais vous donnez ceci, **amusez vous bien !**
+
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
