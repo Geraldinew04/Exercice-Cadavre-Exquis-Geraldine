@@ -35,8 +35,6 @@ Les problèmes de git:
 * travaillez sous terminal
 * Prise de têtes
 
-<<<<<<< HEAD
-
 ## Chapitre 4
 
 J'ai oublier les chapitres précédants ...
