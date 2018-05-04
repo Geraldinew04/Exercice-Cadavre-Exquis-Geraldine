@@ -12,6 +12,13 @@ Qualités d'un web dev
 * Structure
 * Logique
 
+Qualités d'une starup :
+* Motivation
+* Communication
+* Concentration
+* Bonne Humeur
+* Curiosité
+
 ## Chapitre 2  
 
 >Website without visitors is like a ship lost in the horizon.
@@ -20,6 +27,11 @@ Qualités d'un web dev
 * CSS
 * HTML
 * JavaScript
+* JAVA
+* PHP
+* C
+* C#
+* C++
 
 <pre>
 	<code>
