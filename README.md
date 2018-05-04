@@ -1,4 +1,4 @@
-# Titre de mon exercice, *mon histoire*
+﻿# Titre de mon exercice, *mon histoire*
 
 ## Chapitre 1
 
@@ -29,3 +29,8 @@ Qualités d'un web dev
 	</code>
 </pre>
 
+## Chapitre 3
+Les problèmes de git:
+
+* travaillez sous terminal
+* Prise de têtes
