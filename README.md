@@ -80,3 +80,8 @@ Ce jeu littéraire a été inventé à Paris, au 54 rue du Château, dans une ma
 
 Mais mieux vaut ecrire n'importe quoi.
 >>>>>>> 8e328b7b958b39b4aecb16893a0e5e82b51442cf
+
+## Chapitre 8
+
+Fait divers : un groupe de 27 apprentis codeurs internés à l'asile suite à une manipulation excessive de git.
+Heureusement pour leur réinsertion sociale ils disposeront d'un poster blanc et de crayons de couleurs dans leur cellule ... affaire à suivre ...
